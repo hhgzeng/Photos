@@ -41,3 +41,9 @@ $RECYCLE.BIN/
 
 # 忽略日志文件
 *.log
+
+
+# 忽略文件夹
+Award/
+ID/
+Selfie/
